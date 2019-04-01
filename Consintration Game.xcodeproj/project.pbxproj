@@ -15,6 +15,7 @@
 		0497A9A52247B1E800E3232C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0497A9A32247B1E800E3232C /* LaunchScreen.storyboard */; };
 		0497A9B02247B1E900E3232C /* Consintration_GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497A9AF2247B1E900E3232C /* Consintration_GameTests.swift */; };
 		0497A9BB2247B1E900E3232C /* Consintration_GameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0497A9BA2247B1E900E3232C /* Consintration_GameUITests.swift */; };
+		04CD4AC02252557100135CE2 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CD4ABF2252557100135CE2 /* CustomButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0497A9B62247B1E900E3232C /* Consintration GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Consintration GameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0497A9BA2247B1E900E3232C /* Consintration_GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Consintration_GameUITests.swift; sourceTree = "<group>"; };
 		0497A9BC2247B1E900E3232C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04CD4ABF2252557100135CE2 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0497A9A32247B1E800E3232C /* LaunchScreen.storyboard */,
 				0497A9A62247B1E800E3232C /* Info.plist */,
 				045A86852248DBD600BDCC3F /* Consintration.swift */,
+				04CD4ABF2252557100135CE2 /* CustomButton.swift */,
 			);
 			path = "Consintration Game";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04CD4AC02252557100135CE2 /* CustomButton.swift in Sources */,
 				0497A99D2247B1E600E3232C /* ViewController.swift in Sources */,
 				0497A99B2247B1E600E3232C /* AppDelegate.swift in Sources */,
 				045A86862248DBD600BDCC3F /* Consintration.swift in Sources */,
